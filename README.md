@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Alt text](/relative/path/to/Screenshot_٢٠٢٠-٠٢-١٧-٠٩-٥٤-٥٩.png?raw=true "Optional Title")
 
 This project is a starting point for a Flutter application.
 
