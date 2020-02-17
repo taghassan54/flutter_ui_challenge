@@ -91,7 +91,7 @@ class CookiPage extends StatelessWidget {
               Hero(
                   tag: imgPath,
                   child: Container(
-                    height: 75.0,
+                    height: 115.0,
                     decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(3.0),
                         image: DecorationImage(
