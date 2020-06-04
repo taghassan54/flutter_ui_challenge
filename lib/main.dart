@@ -1,4 +1,7 @@
 import 'package:cookistore/bottom_bar.dart';
+import 'package:cookistore/xd/Uplabs_Music_Dan.dart';
+import 'package:cookistore/xd/XD_iPhoneXXS2.dart';
+import 'package:cookistore/xd/iPhoneXXS3.dart';
 import 'package:flutter/material.dart';
 
 import 'cooki_page.dart';
@@ -15,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: XD_iPhoneXXS2(),
     );
   }
 }
